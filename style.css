@@ -1,0 +1,14 @@
+body {
+    background-color: #2C2141;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main {
+    background-color: white;
+    margin: 16px;
+    border-radius: 15px;
+    width: 624px;
+}
