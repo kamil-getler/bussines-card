@@ -19,7 +19,9 @@ body {
 }
 
 img {
+    height: 180px;
     margin-right: 32px;
+    border-radius: 100px;
 }
 
 .main {
